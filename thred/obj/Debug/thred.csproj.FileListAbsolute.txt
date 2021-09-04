@@ -1,0 +1,27 @@
+C:\Users\dell\Desktop\thred\thred\bin\Debug\thred.exe.config
+C:\Users\dell\Desktop\thred\thred\bin\Debug\thred.exe
+C:\Users\dell\Desktop\thred\thred\bin\Debug\thred.pdb
+C:\Users\dell\Desktop\thred\thred\obj\Debug\thred.Form1.resources
+C:\Users\dell\Desktop\thred\thred\obj\Debug\thred.Properties.Resources.resources
+C:\Users\dell\Desktop\thred\thred\obj\Debug\thred.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\thred\thred\obj\Debug\thred.exe
+C:\Users\dell\Desktop\thred\thred\obj\Debug\thred.pdb
+C:\Users\dell\Desktop\thred\thred\obj\Debug\thred.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\proj c#\thred\thred\bin\Debug\thred.exe.config
+C:\Users\dell\Desktop\proj c#\thred\thred\obj\Debug\thred.exe
+C:\Users\dell\Desktop\proj c#\thred\thred\obj\Debug\thred.pdb
+C:\Users\dell\Desktop\proj c#\thred\thred\bin\Debug\thred.exe
+C:\Users\dell\Desktop\proj c#\thred\thred\bin\Debug\thred.pdb
+C:\Users\dell\Desktop\proj c#\thred\thred\obj\Debug\thred.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\proj c#\thred\thred\obj\Debug\thred.Form1.resources
+C:\Users\dell\Desktop\proj c#\thred\thred\obj\Debug\thred.Properties.Resources.resources
+C:\Users\dell\Desktop\proj c#\thred\thred\obj\Debug\thred.csproj.GenerateResource.Cache
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\thred\thred\bin\Debug\thred.exe.config
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\thred\thred\bin\Debug\thred.exe
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\thred\thred\bin\Debug\thred.pdb
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\thred\thred\obj\Debug\thred.Form1.resources
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\thred\thred\obj\Debug\thred.Properties.Resources.resources
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\thred\thred\obj\Debug\thred.csproj.GenerateResource.cache
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\thred\thred\obj\Debug\thred.csproj.CoreCompileInputs.cache
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\thred\thred\obj\Debug\thred.exe
+C:\Users\21655\Desktop\test\proj c# SayehHiba et RomdhaniEchraf\proj c# SayehHiba et RomdhaniEchraf\thred\thred\obj\Debug\thred.pdb
